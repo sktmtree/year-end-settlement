@@ -1,4 +1,3 @@
-import React from 'react';
 import { Info, ChevronUp, ChevronDown, CheckCircle, Gift } from 'lucide-react';
 import type { TaxResult } from '../types';
 
